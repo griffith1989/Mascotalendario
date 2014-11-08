@@ -67,6 +67,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.agendademascota.MainActivity" />
         </activity>
+        <activity
+            android:name="com.example.agendademascota.lib.DetalleEventoActivity"
+            android:label="@string/title_activity_detalle_evento" >
+        </activity>
     </application>
     <!-- To access Google+ APIs: -->
 

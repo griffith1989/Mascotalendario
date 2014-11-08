@@ -10,5 +10,6 @@
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_agregar_mascota">AgregarMascotaActivity</string>
     <string name="title_activity_agregar_evento">Nuevo Evento</string>
+    <string name="title_activity_detalle_evento">DetalleEventoActivity</string>
 
 </resources>
